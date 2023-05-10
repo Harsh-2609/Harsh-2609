@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Harsh-2609
-- 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects on Machine Learning 
 
